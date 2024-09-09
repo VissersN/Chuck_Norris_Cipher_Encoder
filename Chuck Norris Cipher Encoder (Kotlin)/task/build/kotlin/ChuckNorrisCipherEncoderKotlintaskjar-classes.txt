@@ -1,0 +1,1 @@
+C:\Users\nviss\Chuck Norris Cipher Encoder (Kotlin)\Chuck Norris Cipher Encoder (Kotlin)\task\build\classes\kotlin\main\chucknorris\MainKt.class
